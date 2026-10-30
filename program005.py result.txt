@@ -1,0 +1,11 @@
+Python 3.15.0 (tags/v3.15.0:d220409, Oct  9 2026, 11:55:56) [MSC v.1951 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+=========== RESTART: C:\Users\dhaks\OneDrive\Documents\program005.py ===========
+Sensor Data: [24.5 25.1 26.3 27.  28.2 29.1 27.8 26.5 25.7 30.2]
+Mean: 27.04
+Median: 26.75
+Minimum: 24.5
+Maximum: 30.2
+Std. Dev.: 1.7
+Values above 28.0 : [28.2 29.1 30.2]
